@@ -2,7 +2,7 @@
 name: User Story
 about: Use this template to help streamline the information you track about a functionality
   or an interaction between a user and the system
-title: As a end user, I should be able to action, so that I can benefit
+title: As a end_user, I should be able to action, so that I can benefit
 labels: user story
 assignees: ''
 
